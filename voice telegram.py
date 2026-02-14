@@ -6,7 +6,7 @@ from herdcalls import HerdCalls
 from herdcalls.types import MediaStream
 
 # ========== ТВОИ ДАННЫЕ ==========
-BOT_TOKEN = "8334404331:AAGDtmN4Chs-vd_4s1k4LxRItAT3Y7iaXQY"
+BOT_TOKEN = "BOT_TOKEN"
 API_ID = 38362283  # твой API ID
 API_HASH = "97d45376ebd54eaf1fdf9fdd1e59ea34"
 STRING_SESSION = "AgJJXKsAi_vy1lsa1qpTUmXiuMEGWLytUZgOS9Pii1g8N7U5dGav4bCUYfsae_vPPe2c9TUKT1o7rO5O3x4uZCkJhVIssUXjYU24uS4fNagu59_lcprChA5dMbK3t8wN3Xx1lLAZGx4FR36yNTyfx46Ox7gnccBIYIm3r_25wdbba78jYD2mapIeBqKI9zusDqJAtnU8SxyZ5JgVz6pySS7XEE12lIj6bsraTU48aD_WtbGYleVOmpunQEx9zzWf2-9DAR7F3tzj8ibXj10cptnupe6O4jDDGgvnDIJ2iRtax-WcjA0NzIrhWQalYtjbGPfpkhvXO2XkAThj8WRd6VDCKJHJRQAAAAHvjQQWAA"
