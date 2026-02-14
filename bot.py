@@ -8,7 +8,7 @@ import os
 from pyrogram import Client, filters
 from yt_dlp import YoutubeDL
 from pytgcalls import PyTgCalls
-from pytgcalls.types.stream import StreamAudio
+from pytgcalls.types import StreamAudio
 
 # ========== ТВОИ ДАННЫЕ ИЗ ПЕРЕМЕННЫХ СРЕДЫ ==========
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
